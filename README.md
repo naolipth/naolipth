@@ -1,5 +1,5 @@
 ## Hi there, I am Oliver 👋
 
-I am an economist turned quantitative developer. My experience spans from economic policy analysis, through policy evaluation and forecasting, to curve-fitting engine development. Nowdays I mainly write code in Python and C++, but I professionally worked with R, SQL, Matlab and Stata as well.
+I am an **economist** turned **quantitative developer**. My experience spans from economic policy analysis, through policy evaluation and forecasting, to curve-fitting engine development. Nowdays, I mainly write code in **Python** and C++, but I professionally worked with R, SQL, Matlab and Stata as well.
 
 I work at the intersection of quantitative finance, econometrics, and scientific computing. My current research focuses on volatility modelling, asset pricing, and financial-market responses to events.
