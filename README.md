@@ -8,3 +8,4 @@ I work at the intersection of quantitative finance, econometrics, and scientific
 🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/olivernagy1/" target="blank"> <img align="center" src="resources/linkedin_logo.png" width="40" /></a>
+<a href="https://orcid.org/0009-0003-7404-8568" target="blank"> <img align="center" src="resources/ORCID_iD.svg" width="40" /></a>
